@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/test1/test1",
+    "pages/test2/test2",
+    "pages/test3/test3"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/test1/test1",
+        "text": "page1"
+      },
+      {
+        "pagePath": "pages/test2/test2",
+        "text": "page2"
+      },
+      {
+        "pagePath": "pages/test3/test3",
+        "text": "page3"
+      }
+    ]
+  }
+}
